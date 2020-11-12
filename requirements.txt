@@ -1,0 +1,6 @@
+numpy==1.19.4
+ipywidgets==7.5.1
+cv2_plt_imshow==0.0.1
+ipython==7.19.0
+matplotlib==3.3.3
+tqdm==4.51.0
