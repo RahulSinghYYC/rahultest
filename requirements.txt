@@ -4,3 +4,4 @@ cv2_plt_imshow==0.0.1
 ipython==7.19.0
 matplotlib==3.3.3
 tqdm==4.51.0
+opencv-python==4.4.0.46
